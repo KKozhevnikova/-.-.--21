@@ -1,0 +1,44 @@
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр\bin\Debug\Тигр.exe
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр\bin\Debug\Тигр.pdb
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр\obj\x86\Debug\Тигр.Form1.resources
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр\obj\x86\Debug\Тигр.Properties.Resources.resources
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр\obj\x86\Debug\Тигр.exe
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр\obj\x86\Debug\Тигр.pdb
+C:\Users\ленов\Desktop\Лекции\Технология программирования\Тигр(2 c#)\Тигр\obj\x86\Debug\Тигр.exe
+C:\Users\ленов\Desktop\Лекции\Технология программирования\Тигр(2 c#)\Тигр\obj\x86\Debug\Тигр.pdb
+C:\Users\ленов\Desktop\Лекции\Технология программирования\Тигр(2 c#)\Тигр\bin\Debug\Тигр.exe
+C:\Users\ленов\Desktop\Лекции\Технология программирования\Тигр(2 c#)\Тигр\bin\Debug\Тигр.pdb
+C:\Users\ленов\Desktop\Лекции\Технология программирования\Тигр(2 c#)\Тигр\obj\x86\Debug\Тигр.csprojResolveAssemblyReference.cache
+C:\Users\ленов\Desktop\Лекции\Технология программирования\Тигр(2 c#)\Тигр\obj\x86\Debug\Тигр.Form1.resources
+C:\Users\ленов\Desktop\Лекции\Технология программирования\Тигр(2 c#)\Тигр\obj\x86\Debug\Тигр.Properties.Resources.resources
+C:\Users\ленов\Desktop\Лекции\Технология программирования\Тигр(2 c#)\Тигр\obj\x86\Debug\Тигр.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\Технологии программирования-2\2 c#\Тигр\bin\Debug\Тигр.exe
+\\Mac\Home\Downloads\Технологии программирования-2\2 c#\Тигр\bin\Debug\Тигр.pdb
+\\Mac\Home\Downloads\Технологии программирования-2\2 c#\Тигр\obj\x86\Debug\Тигр.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\Технологии программирования-2\2 c#\Тигр\obj\x86\Debug\Тигр.Form1.resources
+\\Mac\Home\Downloads\Технологии программирования-2\2 c#\Тигр\obj\x86\Debug\Тигр.Properties.Resources.resources
+\\Mac\Home\Downloads\Технологии программирования-2\2 c#\Тигр\obj\x86\Debug\Тигр.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\Технологии программирования-2\2 c#\Тигр\obj\x86\Debug\Тигр.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Технологии программирования-2\2 c#\Тигр\obj\x86\Debug\Тигр.exe
+\\Mac\Home\Downloads\Технологии программирования-2\2 c#\Тигр\obj\x86\Debug\Тигр.pdb
+\\Mac\Home\OneDrive\ТП\2 c#\Тигр\bin\Debug\Тигр.exe
+\\Mac\Home\OneDrive\ТП\2 c#\Тигр\bin\Debug\Тигр.pdb
+\\Mac\Home\OneDrive\ТП\2 c#\Тигр\obj\x86\Debug\Тигр.csprojResolveAssemblyReference.cache
+\\Mac\Home\OneDrive\ТП\2 c#\Тигр\obj\x86\Debug\Тигр.Form1.resources
+\\Mac\Home\OneDrive\ТП\2 c#\Тигр\obj\x86\Debug\Тигр.Properties.Resources.resources
+\\Mac\Home\OneDrive\ТП\2 c#\Тигр\obj\x86\Debug\Тигр.csproj.GenerateResource.Cache
+\\Mac\Home\OneDrive\ТП\2 c#\Тигр\obj\x86\Debug\Тигр.csproj.CoreCompileInputs.cache
+\\Mac\Home\OneDrive\ТП\2 c#\Тигр\obj\x86\Debug\Тигр.exe
+\\Mac\Home\OneDrive\ТП\2 c#\Тигр\obj\x86\Debug\Тигр.pdb
+C:\Users\kkozh\OneDrive\ТП\2 c#\Тигр\bin\Debug\Тигр.exe
+C:\Users\kkozh\OneDrive\ТП\2 c#\Тигр\bin\Debug\Тигр.pdb
+C:\Users\kkozh\OneDrive\ТП\2 c#\Тигр\obj\x86\Debug\Тигр.csprojResolveAssemblyReference.cache
+C:\Users\kkozh\OneDrive\ТП\2 c#\Тигр\obj\x86\Debug\Тигр.Form1.resources
+C:\Users\kkozh\OneDrive\ТП\2 c#\Тигр\obj\x86\Debug\Тигр.Properties.Resources.resources
+C:\Users\kkozh\OneDrive\ТП\2 c#\Тигр\obj\x86\Debug\Тигр.csproj.GenerateResource.Cache
+C:\Users\kkozh\OneDrive\ТП\2 c#\Тигр\obj\x86\Debug\Тигр.csproj.CoreCompileInputs.cache
+C:\Users\kkozh\OneDrive\ТП\2 c#\Тигр\obj\x86\Debug\Тигр.exe
+C:\Users\kkozh\OneDrive\ТП\2 c#\Тигр\obj\x86\Debug\Тигр.pdb
