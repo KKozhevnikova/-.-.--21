@@ -1,0 +1,63 @@
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр2\obj\x86\Debug\Тигр2.Properties.Resources.resources
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр2\bin\Debug\Тигр2.exe
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр2\bin\Debug\Тигр2.pdb
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр2\obj\x86\Debug\Тигр2.Form1.resources
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр2\obj\x86\Debug\Тигр2.exe
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Тигр2\obj\x86\Debug\Тигр2.pdb
+C:\Documents and Settings\user\Рабочий стол\Тигр2\Тигр2\obj\x86\Debug\Тигр2.exe
+C:\Documents and Settings\user\Рабочий стол\Тигр2\Тигр2\obj\x86\Debug\Тигр2.pdb
+C:\Documents and Settings\user\Рабочий стол\Тигр2\Тигр2\bin\Debug\Тигр2.exe
+C:\Documents and Settings\user\Рабочий стол\Тигр2\Тигр2\bin\Debug\Тигр2.pdb
+C:\Documents and Settings\user\Рабочий стол\Тигр2\Тигр2\bin\Debug\Тигр.exe
+C:\Documents and Settings\user\Рабочий стол\Тигр2\Тигр2\bin\Debug\Тигр.pdb
+C:\Documents and Settings\user\Рабочий стол\Тигр2\Тигр2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Рабочий стол\Тигр2\Тигр2\obj\x86\Debug\Тигр2.Form1.resources
+C:\Documents and Settings\user\Рабочий стол\Тигр2\Тигр2\obj\x86\Debug\Тигр2.Properties.Resources.resources
+C:\Documents and Settings\user\Рабочий стол\Тигр2\Тигр2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Рабочий стол\Тигр2\Тигр2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\5 #\Тигр2\obj\x86\Debug\Тигр2.exe
+F:\5 #\Тигр2\obj\x86\Debug\Тигр2.pdb
+F:\5 #\Тигр2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\5 #\Тигр2\obj\x86\Debug\Тигр2.Form1.resources
+F:\5 #\Тигр2\obj\x86\Debug\Тигр2.Form2.resources
+F:\5 #\Тигр2\obj\x86\Debug\Тигр2.Properties.Resources.resources
+F:\5 #\Тигр2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\5 #\Тигр2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\5 #\Тигр2\bin\Debug\Тигр2.exe
+F:\5 #\Тигр2\bin\Debug\Тигр2.pdb
+F:\5 #\Тигр2\bin\Debug\Тигр.pdb
+C:\Users\ленов\Desktop\Лекции\Технология программирования\5 #\Тигр2\obj\x86\Debug\Тигр2.exe
+C:\Users\ленов\Desktop\Лекции\Технология программирования\5 #\Тигр2\obj\x86\Debug\Тигр2.pdb
+C:\Users\ленов\Desktop\Лекции\Технология программирования\5 #\Тигр2\bin\Debug\Тигр2.exe
+C:\Users\ленов\Desktop\Лекции\Технология программирования\5 #\Тигр2\bin\Debug\Тигр2.pdb
+C:\Users\ленов\Desktop\Лекции\Технология программирования\5 #\Тигр2\bin\Debug\Тигр.pdb
+C:\Users\ленов\Desktop\Лекции\Технология программирования\5 #\Тигр2\obj\x86\Debug\Тигр2.csprojResolveAssemblyReference.cache
+C:\Users\ленов\Desktop\Лекции\Технология программирования\5 #\Тигр2\obj\x86\Debug\Тигр2.Form1.resources
+C:\Users\ленов\Desktop\Лекции\Технология программирования\5 #\Тигр2\obj\x86\Debug\Тигр2.Form2.resources
+C:\Users\ленов\Desktop\Лекции\Технология программирования\5 #\Тигр2\obj\x86\Debug\Тигр2.Properties.Resources.resources
+C:\Users\ленов\Desktop\Лекции\Технология программирования\5 #\Тигр2\obj\x86\Debug\Тигр2.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\ТП\5 #\Тигр2\bin\Debug\Тигр2.exe
+\\Mac\Home\Desktop\ТП\5 #\Тигр2\bin\Debug\Тигр2.pdb
+\\Mac\Home\Desktop\ТП\5 #\Тигр2\bin\Debug\Тигр.pdb
+\\Mac\Home\Desktop\ТП\5 #\Тигр2\obj\x86\Debug\Тигр2.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\ТП\5 #\Тигр2\obj\x86\Debug\Тигр2.Form1.resources
+\\Mac\Home\Desktop\ТП\5 #\Тигр2\obj\x86\Debug\Тигр2.Form2.resources
+\\Mac\Home\Desktop\ТП\5 #\Тигр2\obj\x86\Debug\Тигр2.Properties.Resources.resources
+\\Mac\Home\Desktop\ТП\5 #\Тигр2\obj\x86\Debug\Тигр2.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\ТП\5 #\Тигр2\obj\x86\Debug\Тигр2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ТП\5 #\Тигр2\obj\x86\Debug\Тигр2.exe
+\\Mac\Home\Desktop\ТП\5 #\Тигр2\obj\x86\Debug\Тигр2.pdb
+C:\Users\kkozh\OneDrive\ТП\5 #\Тигр2\bin\Debug\Тигр2.exe
+C:\Users\kkozh\OneDrive\ТП\5 #\Тигр2\bin\Debug\Тигр2.pdb
+C:\Users\kkozh\OneDrive\ТП\5 #\Тигр2\bin\Debug\Тигр.pdb
+C:\Users\kkozh\OneDrive\ТП\5 #\Тигр2\obj\x86\Debug\Тигр2.csprojResolveAssemblyReference.cache
+C:\Users\kkozh\OneDrive\ТП\5 #\Тигр2\obj\x86\Debug\Тигр2.Form1.resources
+C:\Users\kkozh\OneDrive\ТП\5 #\Тигр2\obj\x86\Debug\Тигр2.Form2.resources
+C:\Users\kkozh\OneDrive\ТП\5 #\Тигр2\obj\x86\Debug\Тигр2.Properties.Resources.resources
+C:\Users\kkozh\OneDrive\ТП\5 #\Тигр2\obj\x86\Debug\Тигр2.csproj.GenerateResource.Cache
+C:\Users\kkozh\OneDrive\ТП\5 #\Тигр2\obj\x86\Debug\Тигр2.csproj.CoreCompileInputs.cache
+C:\Users\kkozh\OneDrive\ТП\5 #\Тигр2\obj\x86\Debug\Тигр2.exe
+C:\Users\kkozh\OneDrive\ТП\5 #\Тигр2\obj\x86\Debug\Тигр2.pdb
