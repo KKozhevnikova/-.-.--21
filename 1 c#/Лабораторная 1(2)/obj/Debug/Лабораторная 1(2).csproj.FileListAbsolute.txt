@@ -16,23 +16,13 @@ C:\Users\ленов\Desktop\Лекции\Технология программи
 C:\Users\ленов\Desktop\Лекции\Технология программирования\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная_1_2_.Form1.resources
 C:\Users\ленов\Desktop\Лекции\Технология программирования\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная_1_2_.Properties.Resources.resources
 C:\Users\ленов\Desktop\Лекции\Технология программирования\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная 1(2).csproj.GenerateResource.Cache
-\\Mac\Home\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\bin\Debug\Лабораторная 1(2).exe.config
-\\Mac\Home\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\bin\Debug\Лабораторная 1(2).exe
-\\Mac\Home\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\bin\Debug\Лабораторная 1(2).pdb
-\\Mac\Home\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная 1(2).csprojResolveAssemblyReference.cache
-\\Mac\Home\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная_1_2_.Form1.resources
-\\Mac\Home\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная_1_2_.Properties.Resources.resources
-\\Mac\Home\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная 1(2).csproj.GenerateResource.Cache
-\\Mac\Home\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная 1(2).csproj.CoreCompileInputs.cache
-\\Mac\Home\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная 1(2).exe
-\\Mac\Home\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная 1(2).pdb
-C:\Users\kkozh\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\bin\Debug\Лабораторная 1(2).exe.config
-C:\Users\kkozh\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\bin\Debug\Лабораторная 1(2).exe
-C:\Users\kkozh\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\bin\Debug\Лабораторная 1(2).pdb
-C:\Users\kkozh\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная 1(2).csprojResolveAssemblyReference.cache
-C:\Users\kkozh\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная_1_2_.Form1.resources
-C:\Users\kkozh\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная_1_2_.Properties.Resources.resources
-C:\Users\kkozh\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная 1(2).csproj.GenerateResource.Cache
-C:\Users\kkozh\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная 1(2).csproj.CoreCompileInputs.cache
-C:\Users\kkozh\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная 1(2).exe
-C:\Users\kkozh\OneDrive\ТП\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная 1(2).pdb
+C:\Users\kkozh\OneDrive\доп тп\Лабораторная 1(2) c#\Лабораторная 1(2)\bin\Debug\Лабораторная 1(2).exe.config
+C:\Users\kkozh\OneDrive\доп тп\Лабораторная 1(2) c#\Лабораторная 1(2)\bin\Debug\Лабораторная 1(2).exe
+C:\Users\kkozh\OneDrive\доп тп\Лабораторная 1(2) c#\Лабораторная 1(2)\bin\Debug\Лабораторная 1(2).pdb
+C:\Users\kkozh\OneDrive\доп тп\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная 1(2).csprojResolveAssemblyReference.cache
+C:\Users\kkozh\OneDrive\доп тп\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная_1_2_.Form1.resources
+C:\Users\kkozh\OneDrive\доп тп\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная_1_2_.Properties.Resources.resources
+C:\Users\kkozh\OneDrive\доп тп\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная 1(2).csproj.GenerateResource.Cache
+C:\Users\kkozh\OneDrive\доп тп\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная 1(2).csproj.CoreCompileInputs.cache
+C:\Users\kkozh\OneDrive\доп тп\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная 1(2).exe
+C:\Users\kkozh\OneDrive\доп тп\Лабораторная 1(2) c#\Лабораторная 1(2)\obj\Debug\Лабораторная 1(2).pdb

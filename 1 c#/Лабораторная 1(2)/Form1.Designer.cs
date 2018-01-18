@@ -61,7 +61,6 @@ namespace Лабораторная_1_2_
             this.button8 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.printPreviewDialog1 = new System.Windows.Forms.PrintPreviewDialog();
-            this.label14 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).BeginInit();
@@ -227,11 +226,10 @@ namespace Лабораторная_1_2_
             this.checkBox1.Size = new System.Drawing.Size(15, 14);
             this.checkBox1.TabIndex = 13;
             this.checkBox1.UseVisualStyleBackColor = true;
-            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(251, 7);
+            this.button1.Location = new System.Drawing.Point(243, 2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(107, 36);
             this.button1.TabIndex = 14;
@@ -241,7 +239,7 @@ namespace Лабораторная_1_2_
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(251, 59);
+            this.button2.Location = new System.Drawing.Point(243, 64);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(107, 43);
             this.button2.TabIndex = 15;
@@ -252,7 +250,7 @@ namespace Лабораторная_1_2_
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(232, 19);
+            this.label8.Location = new System.Drawing.Point(224, 14);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(13, 13);
             this.label8.TabIndex = 16;
@@ -261,7 +259,7 @@ namespace Лабораторная_1_2_
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(232, 71);
+            this.label9.Location = new System.Drawing.Point(224, 79);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(13, 13);
             this.label9.TabIndex = 17;
@@ -269,7 +267,7 @@ namespace Лабораторная_1_2_
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(251, 124);
+            this.button3.Location = new System.Drawing.Point(243, 129);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(107, 31);
             this.button3.TabIndex = 18;
@@ -280,7 +278,7 @@ namespace Лабораторная_1_2_
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(232, 133);
+            this.label10.Location = new System.Drawing.Point(224, 138);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(13, 13);
             this.label10.TabIndex = 19;
@@ -288,7 +286,7 @@ namespace Лабораторная_1_2_
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(251, 179);
+            this.button4.Location = new System.Drawing.Point(243, 184);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(107, 42);
             this.button4.TabIndex = 20;
@@ -299,7 +297,7 @@ namespace Лабораторная_1_2_
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(232, 193);
+            this.label11.Location = new System.Drawing.Point(224, 195);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(13, 13);
             this.label11.TabIndex = 21;
@@ -307,7 +305,7 @@ namespace Лабораторная_1_2_
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(251, 321);
+            this.button5.Location = new System.Drawing.Point(243, 316);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(107, 52);
             this.button5.TabIndex = 22;
@@ -317,7 +315,7 @@ namespace Лабораторная_1_2_
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(251, 244);
+            this.button6.Location = new System.Drawing.Point(243, 244);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(107, 52);
             this.button6.TabIndex = 23;
@@ -328,7 +326,7 @@ namespace Лабораторная_1_2_
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(232, 262);
+            this.label12.Location = new System.Drawing.Point(224, 259);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(13, 13);
             this.label12.TabIndex = 24;
@@ -337,7 +335,7 @@ namespace Лабораторная_1_2_
             // label13
             // 
             this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(232, 339);
+            this.label13.Location = new System.Drawing.Point(224, 336);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(13, 13);
             this.label13.TabIndex = 25;
@@ -345,7 +343,7 @@ namespace Лабораторная_1_2_
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(413, 122);
+            this.button7.Location = new System.Drawing.Point(445, 163);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(75, 45);
             this.button7.TabIndex = 26;
@@ -356,7 +354,7 @@ namespace Лабораторная_1_2_
             // button8
             // 
             this.button8.Enabled = false;
-            this.button8.Location = new System.Drawing.Point(413, 184);
+            this.button8.Location = new System.Drawing.Point(445, 244);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(75, 23);
             this.button8.TabIndex = 27;
@@ -366,10 +364,10 @@ namespace Лабораторная_1_2_
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(12, 242);
+            this.textBox1.Location = new System.Drawing.Point(12, 214);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(214, 183);
+            this.textBox1.Size = new System.Drawing.Size(195, 183);
             this.textBox1.TabIndex = 28;
             this.textBox1.Text = resources.GetString("textBox1.Text");
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
@@ -385,23 +383,12 @@ namespace Лабораторная_1_2_
             this.printPreviewDialog1.Visible = false;
             this.printPreviewDialog1.Load += new System.EventHandler(this.printPreviewDialog1_Load);
             // 
-            // label14
-            // 
-            this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(95, 226);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(46, 13);
-            this.label14.TabIndex = 29;
-            this.label14.Text = "Рецепт:";
-            this.label14.Click += new System.EventHandler(this.label14_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.ClientSize = new System.Drawing.Size(591, 437);
-            this.Controls.Add(this.label14);
+            this.ClientSize = new System.Drawing.Size(591, 409);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button8);
             this.Controls.Add(this.button7);
@@ -477,7 +464,6 @@ namespace Лабораторная_1_2_
         private System.Windows.Forms.Button button8;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.PrintPreviewDialog printPreviewDialog1;
-        private System.Windows.Forms.Label label14;
     }
 }
 

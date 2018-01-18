@@ -259,15 +259,6 @@ namespace Лабораторная_1_2_
 
         }
 
-        private void label14_Click(object sender, EventArgs e)
-        {
-
         }
-
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-    }
     
 }
